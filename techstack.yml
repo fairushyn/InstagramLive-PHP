@@ -1,0 +1,57 @@
+repo_name: fairushyn/InstagramLive-PHP
+report_id: 4b519b114dc9e50d1a0b6e19d7824d24
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-13T18:04:12+00:00'
+requested_by: JRoy
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/InstagramLive-PHP
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fairushyn/InstagramLive-PHP
+  detection_source: Repo Metadata
+- name: mgp25/instagram-php
+  description: Instagram's private API for PHP
+  package_url: https://packagist.org/mgp25/instagram-php
+  version: '4.0'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/fairushyn/InstagramLive-PHP/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: WheezyGold7931
+  last_updated_on: 2018-04-16 00:33:19.000000000 Z
+- name: react/child-process
+  description: Event-driven library for executing child processes with ReactPHP
+  package_url: https://packagist.org/react/child-process
+  version: 0.5.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/fairushyn/InstagramLive-PHP/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: WheezyGold7931
+  last_updated_on: 2018-04-16 00:33:19.000000000 Z
